@@ -25,4 +25,4 @@ Explanation of files:
     * Change X1, X2, lambda, position, filename, and the constraints in the k for loop as needed.
     * Compile and execute.
 * Graphs (folder)
-  * Some graph samples, where the data was the output of these programs.
+  * Some graph samples in postscript format. The data in these graphs are from the output of these programs.
