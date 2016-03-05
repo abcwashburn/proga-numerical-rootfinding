@@ -4,7 +4,8 @@ Contains programs that use numerical methods to find the roots of the Bernoulli 
 
 Explanation of files:
 * nr.h, nrutil_nr.h, nrtypes_nr.h
-  * Header files used for the NR class.  Source: Numerical Recipes: The Art of Scientific Computing, 3rd edition CD.
+  * Header files used for the NR class.
+  * Source: Numerical Recipes: The Art of Scientific Computing, 3rd edition CD.
 * roots_bondi.cpp
   * Uses the bracketing and bisection numerical method to determine the roots of the Bernoulli function.  Output is printed to the terminal.
   * To run this program:
